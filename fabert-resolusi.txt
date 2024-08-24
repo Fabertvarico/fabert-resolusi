@@ -3,4 +3,4 @@ FABERT RESOLUSI
 - mengerti untuk mengetrain AI
 - belajar segala hal tentang AI minimal 3jam sehari
 - Mempelajari mengenai finance
-- Mendalami dunia matematika
+- Membuat Platform
