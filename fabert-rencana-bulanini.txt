@@ -10,3 +10,4 @@ RENCANA BULAN INI FABERT
 - bangun pagi
 - ngoding
  ^ python
+ ^ js
