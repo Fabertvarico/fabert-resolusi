@@ -1,6 +1,8 @@
 RENCANA BULAN INI FABERT
 
 - jalan jalan
+  * keluar kota
+  * ke alam
 - olahraga
 - bangun pagi
 - ngoding
