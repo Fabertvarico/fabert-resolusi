@@ -3,7 +3,8 @@ RENCANA BULAN INI FABERT
 - jalan jalan
   * keluar kota
   * ke alam
-- ikut mma
+   ^ curug
+   ^ gunung
 - olahraga
 - bangun pagi
 - ngoding
